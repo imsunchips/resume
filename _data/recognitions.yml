@@ -1,10 +1,11 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: dbt Fundamentals
+  organization: dbt Labs
+  year: 2023
+  summary: Completed the online dbt Fundamentals v2 course and passed the end of course quiz. This demonstrates fundamental understanding of models, sources, tests, docs, and deployment in dbt.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- aware: ITIL® 4 Foundation Certification Training Course
+  organization: SimpliLearn
+  year: 2021
+  summary: ITIL key concepts, ITIL central principles, ITIL process models, Service level management, Customer experience improvements, ITSM efficiency
+
