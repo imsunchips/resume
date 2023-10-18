@@ -1,12 +1,23 @@
 # Skills
 # Organizational leadership
+
+
+- skill: Data Modeling
+  description: 
+  
+- skill: Data Warehouse Design
+  description: 
+  
+- skill: Azure Cloud (Portal, Synapse, One Lake, Purview)
+  description: setup subscriptions, resources, purview setup and configuration
+  
+- skill: Azure Data Catalog
+  description: setup business glossary, connect & scan data sources, access policy
+  
+- skill: dbtCloud & dbtCore
+  description: Install/Setup dbtCore and dbtCloud, create DAG, doc,  Jinja, macros, tests, models, data sources
+   
+
 - skill: Organizational leadership
   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
